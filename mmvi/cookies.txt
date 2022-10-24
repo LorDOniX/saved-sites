@@ -1,0 +1,14 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+the-spoiler.com	TRUE	/	FALSE	1999999999	ezoadgid_240135	-1
+the-spoiler.com	TRUE	/	FALSE	1999999999	ezosuibasgeneris-1	23a9cf63-0ef4-4204-7da6-f7b30b35af2f
+the-spoiler.com	TRUE	/	FALSE	1999999999	SameSite	None
+the-spoiler.com	TRUE	/	FALSE	1999999999	ezoab_240135	mod70-c
+the-spoiler.com	TRUE	/	FALSE	1999999999	active_template::240135	pub_site.1665397872
+the-spoiler.com	TRUE	/	FALSE	1999999999	lp_240135	https://the-spoiler.com/RPG/New.World.Computing/might..magic.6.1/mm6.html
+the-spoiler.com	TRUE	/	FALSE	1999999999	ezovuuidtime_240135	1665397872
+the-spoiler.com	TRUE	/	FALSE	1999999999	ezovuuid_240135	bbbbee53-2a95-4d63-7ba4-32bd1fcd27e2
+the-spoiler.com	TRUE	/	FALSE	1999999999	ezopvc_240135	1
+the-spoiler.com	TRUE	/	FALSE	1999999999	ezovab_240135	vmod1
+the-spoiler.com	TRUE	/	FALSE	1999999999	ezCMPCCS	false
+

@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 10 Oct 2022 12:34:05 at https://www.svetmightandmagic.cz/mmvi/mmvi_index.php +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.svetmightandmagic.cz/mmvi/mmvi_index.php -O1 "C:\Users\roman.makudera\Downloads\cz-mmvi" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:37:45	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.svetmightandmagic.cz/mmvi/mmvi_obrazkym.php?obr=dungeony37 (from https://www.svetmightandmagic.cz/mmvi/mmvi_navod.php)
+12:37:45	Error: 	"Forbidden" (403) at link https://www.svetmightandmagic.cz/mmvi/bestiar/ (from https://www.svetmightandmagic.cz/mmvi/mmvi_bzobrazeni.php?id=)
+12:37:45	Warning: 	Found for https://www.svetmightandmagic.cz/mmvi/mmvi_obrazkym.php?obr=dungeony37
+12:37:45	Warning: 	File has moved from https://www.svetmightandmagic.cz/mmvi/mmvi_obrazkym.php?obr=dungeony37 to http://www.svetmightandmagic.cz/mmvi/mmvi_mapy.php?mapa=dungeon37
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 40 seconds : 784 links scanned, 780 files written (13582089 bytes overall) [12622104 bytes received at 57373 bytes/sec], 1676277 bytes transferred using HTTP compression in 182 files, ratio 25%, 44.4 requests per connection
+(1 errors, 3 warnings, 0 messages)
